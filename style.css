@@ -1,0 +1,139 @@
+
+    .nav {
+      background-color: #fc1313;
+      padding: 20px;
+      background-color: orange;
+      border-radius: 100px;
+    }
+    ul {
+      list-style: none;
+      padding: 0%;
+      margin: 0%;
+      display: flex;
+      justify-content: space-between;
+    }
+    ul li {
+      float: left;
+      padding: 15px;
+    }
+    ul li a {
+      text-decoration: dashed;
+      font-size: px;
+      padding: 10x;
+      color: rgb(0, 128, 90);
+    }
+    ul li:hover {
+      color: rgb(235, 235, 244);
+      background-color: rgb(21, 163, 38);
+      border-radius: 20px;
+    }
+
+    #jk {
+      width: 100%;
+      height: 250px;
+      background-color: pink;
+      text-align: center;
+    }
+    h1 {
+      text-align: center;
+      font-weight: bolder;
+    }
+    p {
+      text-align: center;
+    }
+    #div1 {
+      border-radius: 50%;
+      float: left;
+      margin: 5%;
+    }
+    #div2 {
+      border-radius: 50%;
+      float: left;
+      margin: 5%;
+    }
+    #div3 {
+      border-radius: 50%;
+      float: left;
+      margin: 5%;
+    }
+    #div4 {
+      border: 50%;
+      float: left;
+      margin: 5%;
+    }
+
+    img {
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+    }
+    #test {
+      width: 100%;
+      height: 250px;
+      background-color: rgba(117, 117, 199, 0.521);
+      clear: both;
+      text-align: center;
+    }
+    #ks {
+      text-align: center;
+    }
+    #dv1 {
+      width: 100%;
+      height: 200px;
+      background-color: rgb(172, 159, 140);
+    }
+    .service-saction {
+      width: 100%;
+      height: 200pxx;
+    }
+    span {
+      color: red;
+    }
+    button {
+      margin: auto;
+    }
+    .service {
+      width: 100px; 
+      background-color:rgba(198, 13, 13, 0.575);
+      margin: 50px 130px;
+      text-align: center;
+      float: left;
+    }
+    .service img{
+      width: 50px;
+      height: 50px;
+      
+    }
+    .service-section{
+      background-color: grey;
+      height: 250px;
+    
+    }
+    .floa{
+      float: left;
+    }
+    #kok{
+        height: 10px;
+    }
+    .foot-box{
+        margin: 0 50px;
+        width: 150px;
+        float: left;
+        
+    }
+    .img{
+        float: left;
+    }
+    .h2{
+        color: rgb(153, 75, 51);
+    }
+    .p{
+
+    }
+    .footer{
+        text-align: center;
+        padding: 0 100px;
+
+    }
+
+
